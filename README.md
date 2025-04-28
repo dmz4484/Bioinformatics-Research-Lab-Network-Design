@@ -1,5 +1,5 @@
-# Bioinformatics-Research-Lab-Network-Design
-This is my final project for CSC435, where I designed a network for a bioinformatics research lab using Cisco Packet Tracer. The network features VLANs for traffic separation, wired and wireless connectivity, and basic security. It supports research PCs, student devices, and IoT equipment, with potential for future improvements.
+# Research-Lab-Network-Design
+This is my final project for CSC435, where I designed a network for an undergraduate research lab using Cisco Packet Tracer. The network features VLANs for traffic separation, wired and wireless connectivity, and basic security. It supports research PCs, student devices, and IoT equipment, with potential for future improvements.
 
 ![slide 1](images/Slide1.jpg)
 ![slide 2](images/Slide2.jpg)
